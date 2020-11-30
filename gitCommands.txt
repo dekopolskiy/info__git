@@ -89,7 +89,8 @@ git push -u origin main
 OR
 
 git remote add origin https://github.com/dekopolskiy/TutorialGit.git
-git push -u origin main
+git push -u origin main добавить в удаленный репозиторий последние изменение из локального репозитория
+git pull origin master скачать из удаленного репозитория в главный локальный
 
 __________________________________________________________________
 
