@@ -8,6 +8,7 @@ git tag <name> - на коммите дает тэг, для удобства в
 git commit -m '<nameCommit>' - сохранить,коммит
 ~/.gitconfig - файл с опциями
 git log - где когда какие коммиты
+git reflog - история
 
 HEAD текущий шаг 
 origin/master origin/style ветки клоны
